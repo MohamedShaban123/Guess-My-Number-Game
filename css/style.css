@@ -87,4 +87,12 @@ h1{
     #btn-again{
         margin-bottom: 10px;
     }
+
+} 
+
+
+@media (max-width: 839px) { 
+    h1{
+        font-size: 25px;
+    }
 } 
